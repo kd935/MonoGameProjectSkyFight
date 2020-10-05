@@ -1,0 +1,240 @@
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SkyFight.exe
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SkyFight.pdb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\obj\x86\Debug\SkyFight.csprojAssemblyReference.cache
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\obj\x86\Debug\SkyFight.csproj.CoreCompileInputs.cache
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\obj\x86\Debug\SkyFight.csproj.CopyComplete
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\obj\x86\Debug\SkyFight.exe
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\obj\x86\Debug\SkyFight.pdb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\images\background.xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\images\ground.xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\images\player_biplane.xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (1).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (10).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (11).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (12).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (13).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (14).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (15).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (16).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (17).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (18).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (19).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (2).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (20).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (21).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (22).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (23).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (24).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (25).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (26).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (27).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (28).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (29).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (3).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (30).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (31).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (32).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (33).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (34).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (35).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (36).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (37).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (38).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (39).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (4).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (40).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (41).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (42).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (43).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (44).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (45).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (46).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (47).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (48).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (5).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (6).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (7).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (8).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\explosion\explosion (9).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\SkyFight.exe.config
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\netstandard.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.AppContext.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Collections.Concurrent.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Collections.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Collections.NonGeneric.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Collections.Specialized.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.ComponentModel.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.ComponentModel.Primitives.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Console.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Data.Common.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.Contracts.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.Debug.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.Process.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.Tools.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Diagnostics.Tracing.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Drawing.Primitives.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Dynamic.Runtime.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Globalization.Calendars.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Globalization.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Globalization.Extensions.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.Compression.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.FileSystem.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.IsolatedStorage.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.Pipes.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Linq.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Linq.Expressions.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Linq.Parallel.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Linq.Queryable.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.Http.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.NameResolution.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.NetworkInformation.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.Ping.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.Primitives.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.Requests.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.Security.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.Sockets.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.WebSockets.Client.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Net.WebSockets.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.ObjectModel.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Reflection.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Reflection.Extensions.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Reflection.Primitives.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Resources.Reader.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Resources.ResourceManager.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Resources.Writer.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.Extensions.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.Handles.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.InteropServices.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.Numerics.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Security.Claims.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Security.Principal.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Security.SecureString.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Text.Encoding.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Text.RegularExpressions.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Threading.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Threading.Overlapped.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Threading.Tasks.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Threading.Thread.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Threading.ThreadPool.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Threading.Timer.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.ValueTuple.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Xml.ReaderWriter.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Xml.XDocument.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Xml.XmlDocument.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Xml.XmlSerializer.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Xml.XPath.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\JM.LinqFaster.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Buffers.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Memory.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Numerics.Vectors.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Buffers.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Memory.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Numerics.Vectors.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\images\bullet_enemy.xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\images\bullet_player.xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\images\enemy_biplane.xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\images\background1.xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (1).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (10).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (11).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (12).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (13).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (14).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (15).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (16).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (17).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (18).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (19).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (2).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (20).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (21).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (22).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (23).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (24).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (25).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (26).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (27).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (28).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (29).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (3).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (30).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (4).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (5).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (6).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (7).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (8).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\smoke\smoke (9).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (1).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (10).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (11).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (12).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (13).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (14).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (15).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (16).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (17).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (18).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (19).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (2).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (20).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (21).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (22).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (23).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (24).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (25).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (3).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (4).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (5).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (6).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (7).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (8).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\animations\fire\fire (9).xnb
+D:\Documents\Учебные материалы\4 Курс\DotNet\SkyFight\SkyFight\bin\Windows\x86\Debug\Content\fonts\GameFont.xnb

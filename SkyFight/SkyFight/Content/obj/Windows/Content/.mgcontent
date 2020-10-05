@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (1).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (10).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (11).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (12).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (13).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (14).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (15).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (16).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (17).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (18).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (19).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (2).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (20).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (21).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (22).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (23).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (24).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (25).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (26).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (27).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (28).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (29).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (3).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (30).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (31).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (32).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (33).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (34).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (35).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (36).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (37).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (38).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (39).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (4).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (40).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (41).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (42).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (43).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (44).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (45).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (46).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (47).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (48).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (5).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (6).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (7).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (8).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/explosion/explosion (9).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (1).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (10).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (11).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (12).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (13).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (14).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (15).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (16).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (17).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (18).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (19).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (2).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (20).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (21).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (22).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (23).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (24).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (25).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (3).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (4).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (5).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (6).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (7).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (8).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/fire/fire (9).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (1).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (10).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (11).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (12).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (13).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (14).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (15).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (16).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (17).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (18).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (19).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (2).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (20).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (21).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (22).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (23).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (24).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (25).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (26).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (27).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (28).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (29).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (3).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (30).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (4).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (5).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (6).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (7).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (8).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/animations/smoke/smoke (9).png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/fonts/File.spritefont</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/images/bg.png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/images/bg2.png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/images/biplane.png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/images/biplane_enemy.png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/images/bullet.png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/images/bullet_enemy.png</File>
+    <File>D:/Documents/Учебные материалы/4 Курс/DotNet/SkyFight/SkyFight/Content/images/ground.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>fonts/GameFont</File>
+    <File>images/background1</File>
+    <File>images/background</File>
+    <File>images/player_biplane</File>
+    <File>images/enemy_biplane</File>
+    <File>images/bullet_player</File>
+    <File>images/bullet_enemy</File>
+    <File>images/ground</File>
+  </DestFiles>
+</SourceFileCollection>
